@@ -4,10 +4,6 @@ An interactive, Persian-language learning lab for understanding tokenization. En
 
 The interface is written in Persian and supports right-to-left text. Source files and project directories use English names for maintainability and future GitHub publication.
 
-[راهنمای فارسی](docs/README.fa.md) · [Architecture](docs/architecture.md) · [Validation](docs/validation.md) · [Third-party notices](THIRD_PARTY_NOTICES.md)
-
-[Visual walkthrough](#visual-walkthrough) · [Mobile layout](docs/images/laboratory-mobile.png)
-
 ## Features
 
 - Whitespace, Unicode code-point, Hazm word, and Hazm sentence tokenization.
